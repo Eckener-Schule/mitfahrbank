@@ -17,8 +17,8 @@ akzeptiert die Person als Mitfahrer. Der Mitfahrer setzt sich auf die Bank
 und wird von dort mitgenommen.
 
 ## Installation
-Zuerst wird das Projekt, unter dem [Link](https://github.com/Eckener-Schule/mitfahrbank/),
-in das gewünschte Zielverzeichnis geklont.
+Zuerst wird das Projekt, unter dem [https://github.com/Eckener-Schule/mitfahrbank/](https://github.com/Eckener-Schule/mitfahrbank/),
+in das gewünschte Zielverzeichnis geklont (git muss installiert sein).
 ```
 # git clone https://github.com/Eckener-Schule/mitfahrbank/
 ```
