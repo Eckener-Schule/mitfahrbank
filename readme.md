@@ -26,7 +26,7 @@ Anschließend wird das Schema der Datenbank importiert.
 Im Verzeichnis "config" wird example.php in config.php umbenannt. In dieser Datei müssen die
 Zugangsdaten für die Datenbank eingegeben werden. Zum Abschluss muss die Datenbank gepflegt
 werden. Beispiel-Datensätze können in der Datei data.sql eingesehen werden.  
-
-## Quellen
-Das Projekt [Mitfahrbank](https://www.bobenop.de/projekte/mitfahrbank)
-[HowTo Mitfahrbank](https://www.bobenop.de/projekte/mitfahrbank/85-wie-funktioniert-eine-mitfahrbank)
+___
+# Quellen:
+* Das Projekt [Mitfahrbank](https://www.bobenop.de/projekte/mitfahrbank)
+* ["HowTo" der Mitfahrbank](https://www.bobenop.de/projekte/mitfahrbank/85-wie-funktioniert-eine-mitfahrbank)
