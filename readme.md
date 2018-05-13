@@ -18,7 +18,11 @@ und wird von dort mitgenommen.
 
 ## Installation
 Zuerst wird das Projekt, unter dem [Link](https://github.com/Eckener-Schule/mitfahrbank/),
-in das gewünschte Zielverzeichnis geklont (# git clone https://github.com/Eckener-Schule/mitfahrbank/). Dann  wird das Schema der Datenbank importiert. 
+in das gewünschte Zielverzeichnis geklont.
+```
+# git clone https://github.com/Eckener-Schule/mitfahrbank/
+```
+Anschließend wird das Schema der Datenbank importiert. 
 Im Verzeichnis "config" wird example.php in config.php umbenannt. In dieser Datei müssen die
 Zugangsdaten für die Datenbank eingegeben werden. Zum Abschluss muss die Datenbank gepflegt
 werden. Beispiel-Datensätze können in der Datei data.sql eingesehen werden.  
